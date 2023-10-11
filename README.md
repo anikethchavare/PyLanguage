@@ -9,7 +9,7 @@
 ## Package Information
 
 1. **Name**: PyLanguage</br>
-2. **Version**: 1.0.0</br>
+2. **Version**: 1.1.0</br>
 3. **Description**: This Python package contains classes, modules, and functions associated with communication and language.</br>
 4. **License**: Apache License 2.0</br>
 5. **Author**: Aniketh Chavare ([GitHub Profile](https://github.com/anikethchavare))</br>

@@ -14,3 +14,4 @@ The source code, license, and other information about their open-source projects
 2. colorama (Jonathan Hartley) - Visit [here](https://github.com/tartley/colorama).
 3. requests (Python Software Foundation) - Visit [here](https://github.com/psf/requests).
 4. importlib-metadata (Python) - Visit [here](https://github.com/python/importlib_metadata).
+5. pyttsx3 (Natesh Bhat) - Visit [here](https://github.com/nateshmbhat/pyttsx3).

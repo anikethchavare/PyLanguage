@@ -28,7 +28,7 @@ from colorama import Fore, Style
 
 # Variables - Package Information
 __name__ = "PyLanguage"
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 __description__ = "This Python package contains classes, modules, and functions associated with communication and language."
 __license__ = "Apache License 2.0"
 __author__ = "Aniketh Chavare"

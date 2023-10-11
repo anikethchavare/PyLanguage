@@ -31,10 +31,8 @@ class Dictionary:
             # Fetching the Data
             try:
                 response = requests.get("https://api.dictionaryapi.dev/api/v2/entries/en/" + word)
-            except requests.ConnectionError:
-                raise ConnectionError("A connection error occurred. Please try again.")
-            except:
-                raise Exception("Something went wrong. Please try again.")
+            except BaseException as exception:
+                raise Exception(str(exception))
 
             # Try/Except
             try:
